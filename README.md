@@ -1,0 +1,2 @@
+# ECDSA-Deep-Analysis-Private-Key-Recovery-Framework-AI-Genetic-RL-
+This project implements an **AI-driven cryptanalysis framework for ECDSA**, combining: - 🧬 **Genetic Algorithms** - 🧠 **Machine Learning (XGBoost, LSTM, TensorFlow)** - 🔥 **Simulated Annealing Optimization** - 🤖 **Reinforcement Learning Environment (OpenAI Gym)** - 📈 **Linear and Reuse Nonce Detection** - 🪄 **Hybrid AI-supervised attacks**
